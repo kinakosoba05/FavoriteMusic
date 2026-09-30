@@ -1,1 +1,1 @@
-# Favorite-Music
+# FavoriteMusic
